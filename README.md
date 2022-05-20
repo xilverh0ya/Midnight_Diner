@@ -1,10 +1,11 @@
 # 심야식당
 
-![Logo]("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7")  
-
-#### Our Notion
-
-<img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
+<p align='center'>
+    <img src="./asset/logo.ico/프로젝트_심야식당.jpg">
+</p>
+<p align='center'>
+    <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
+</p>
 
 # 새로운 아이디어
 
