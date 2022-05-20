@@ -4,7 +4,9 @@
     <img src="./asset/logo.ico/프로젝트_심야식당.jpg">
 </p>
 <p align='center'>
-    <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
+    <a href="https://habitual-nail-f6c.notion.site/68ca5c4f895c415f9dbf818e82bcf39b?v=c1d3ca505cad4cb1b6de7ef3bfe676a3">
+        <img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/>
+    </a>
 </p>
 
 # 새로운 아이디어
