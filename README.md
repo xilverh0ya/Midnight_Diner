@@ -39,8 +39,9 @@
 
 ### 예상 구현 화면
 <p align='center'>
-    <img src="./asset/logo.ico/로고화면_심야식당.png">
-    <img src="./asset/logo.ico/구현화면_심야식당.png">
+    <img src="./asset/logo.ico/로고화면_심야식당.png" width="300" height="600">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./asset/logo.ico/구현화면_심야식당.png" width="300" height="600">
 </p>
 
 ## Our Notion : <a href="https://habitual-nail-f6c.notion.site/68ca5c4f895c415f9dbf818e82bcf39b?v=c1d3ca505cad4cb1b6de7ef3bfe676a3"><img src="https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white"/></a>
