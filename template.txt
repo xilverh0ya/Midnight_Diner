@@ -8,6 +8,8 @@
 # FEAT : 새로운 기능 추가
 # FIX : 버그 수정
 # DOCS : 문서 수정
+# DATA : DataSet, 단순 데이터 관련 사항
+# DB : 데이터베이스 관련 사항
 # TEST : 테스트 코드 추가
 # REFACTOR : 코드 리팩토링
 # STYLE : 코드 의미에 영향을 주지 않는 변경사항
